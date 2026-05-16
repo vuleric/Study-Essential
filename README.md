@@ -1,4 +1,4 @@
-# ⏰ Study Clock
+<img width="481" height="771" alt="image" src="https://github.com/user-attachments/assets/58b541f7-4792-47a3-ad65-d1099bbb3af4" /># ⏰ Study Clock
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-pink?style=for-the-badge&logo=clock">
@@ -28,20 +28,8 @@
 ## 📸 Screenshots
 
 ### Pomodoro Timer
-```
-┌─────────────────────────────┐
-│       ● ● ○ ○  (Session)   │
-│                             │
-│      ╭──────────────╮      │
-│     ╱   ╭──────╮    ╲     │
-│    │    │ 25:00│    │    │
-│    │    │Focus │    │    │
-│     ╲   ╰──────╯    ╱     │
-│      ╰──────────────╯      │
-│                             │
-│   [▶ Start]  [↻ Reset]    │
-└─────────────────────────────┘
-```
+<img width="481" height="771" alt="image" src="https://github.com/user-attachments/assets/2201f037-9dd5-4787-872b-18be95a98551" />
+
 
 ### Stopwatch
 ```
