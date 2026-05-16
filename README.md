@@ -1,4 +1,4 @@
-<img width="800" height="767" alt="image" src="https://github.com/user-attachments/assets/5c4c3c17-a684-4382-9012-30030a61e4dd" /># ⏰ Study Clock
+# ⏰ Study Clock
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-pink?style=for-the-badge&logo=clock">
